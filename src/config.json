@@ -1,0 +1,6 @@
+{
+    "specFilter": "Image",
+    "libFilter": "sap.uxap",
+    "browsers": "chromeHeadless",
+    "binarySearch": false
+}
